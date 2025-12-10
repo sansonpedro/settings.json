@@ -2,5 +2,6 @@ Theme: Min dark
 Symbols: Symbols
 Git: Git lens
 Prettier: Identation
-Intelisense Tailwind: Tailwind
+Intelisense Tailwind: Tailwind autocomplete
 IntelliCode: Prefixer
+PostCSS: Helper to TailwindCss
